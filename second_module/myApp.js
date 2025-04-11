@@ -54,35 +54,4 @@ app.get('/name/', function(req, res) {
   res.json({name: `${first} ${last}`});
 });
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 module.exports = app;
